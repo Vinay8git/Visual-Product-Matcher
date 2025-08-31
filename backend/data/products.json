@@ -370,5 +370,23 @@
     "name": "Samsung Galaxy Z Fold",
     "category": "Smartphone",
     "image_url": "https://images.pexels.com/photos/16149964/pexels-photo-16149964.jpeg?_gl=1*1f46ulq*_ga*MTI4MzY5NjE5NS4xNzU2NTQwNjgx*_ga_8JE65Q40S6*czE3NTY1NzE3MjEkbzQkZzEkdDE3NTY1NzE3NDgkajMzJGwwJGgw"
+  },
+  {
+    "id": "Laptops-1756614893367",
+    "name": "Dell Alienware",
+    "category": "Laptops",
+    "image_url": "https://media.istockphoto.com/id/1198480894/photo/photography-of-gaming-laptop-from-the-front-side-view-placed-on-gray-background-laptop.jpg?b=1&s=612x612&w=0&k=20&c=xq0GxVr-ZBxJGz16KBAiH4vsUmGeaOJp4l3WBD4xJCA="
+  },
+  {
+    "id": "Watch-1756616955058",
+    "name": "Rolex Watch",
+    "category": "Watch",
+    "image_url": "https://images.pexels.com/photos/19766307/pexels-photo-19766307.jpeg?_gl=1*1bocm6o*_ga*MTI4MzY5NjE5NS4xNzU2NTQwNjgx*_ga_8JE65Q40S6*czE3NTY2MTY5NDEkbzYkZzAkdDE3NTY2MTY5NDEkajYwJGwwJGgw"
+  },
+  {
+    "id": "Shoes-1756617135968",
+    "name": "Premium Leather Shoes",
+    "category": "Shoes",
+    "image_url": "https://images.pexels.com/photos/9965910/pexels-photo-9965910.jpeg?_gl=1*9qwq8*_ga*MTI4MzY5NjE5NS4xNzU2NTQwNjgx*_ga_8JE65Q40S6*czE3NTY2MTY5NDEkbzYkZzEkdDE3NTY2MTcxMTYkajU5JGwwJGgw"
   }
 ]

@@ -136,8 +136,8 @@ app.post('/api/add-product', (req, res) => {
     const args = [pyScript, '--image', image_url, '--rebuild'];
     const py = spawn(PY_BIN, args, { cwd: __dirname });
 
-    // py.stdout.on('data', (d) => console.log('[Rebuild stdout]', d.toString()));
-    // py.stderr.on('data', (d) => console.error('[Rebuild stderr]', d.toString()));
+    py.stdout.on('data', (d) => console.log('[Rebuild stdout]', d.toString()));
+    py.stderr.on('data', (d) => console.error('[Rebuild stderr]', d.toString()));
     py.on('close', (code) => {
       if (code === 0) console.log('✅Embeddings Rebuilt Successfully');
       else console.error('❌Failed To Rebuild Embeddings');
